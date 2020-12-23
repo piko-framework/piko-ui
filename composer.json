@@ -1,6 +1,6 @@
 {
 	"name" : "piko/ui",
-	"description" : "User interface utilities using Bootstrap 4 for Piko based projects.",
+	"description" : "Provides JQuery and Bootstrap asset bundles for Piko based projects.",
 	"keywords" : [
 		"piko",
 		"ui",
