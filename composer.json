@@ -1,19 +1,19 @@
 {
-	"name": "ilhooq/piko-ui",
-	"description": "User interface utilities using Bootstrap 4 for Piko based projects.",
-	"keywords": [
+	"name" : "piko/ui",
+	"description" : "User interface utilities using Bootstrap 4 for Piko based projects.",
+	"keywords" : [
 		"piko",
 		"ui",
 		"bootstrap"
 	],
-	"license": "MIT",
-	"require": {
-		"ilhooq/piko": "^0.8",
-		"bower-asset/jquery": "^3.4",
-		"bower-asset/bootstrap": "^4.4"
+	"license" : "MIT",
+	"require" : {
+		"ilhooq/piko" : "^0.8",
+		"bower-asset/jquery" : "^3.4",
+		"bower-asset/bootstrap" : "^4.4"
 	},
-	"autoload": {
-		"psr-4": {
+	"autoload" : {
+		"psr-4" : {
 			"piko\\ui\\" : ""
 		}
 	}
