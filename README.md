@@ -1,11 +1,11 @@
-# Piko Datatable
+# Piko UI
 
-Provides UI utilities and JQuery and Bootstrap assets for Piko based projects.
+Provides JQuery and Bootstrap asset bundles for Piko based projects.
 
 ## Installation
 
 ```bash
-composer require ilhooq/piko-ui
+composer require piko/ui
 ```
 
 ## Use
