@@ -8,7 +8,7 @@
 	],
 	"license" : "MIT",
 	"require" : {
-		"ilhooq/piko" : "^0.8",
+		"piko/framework" : "^0.9",
 		"bower-asset/jquery" : "^3.4",
 		"bower-asset/bootstrap" : "^4.4"
 	},
